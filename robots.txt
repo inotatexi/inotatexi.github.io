@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inotatexi.github.io/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/app/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/assets/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/css/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/includes/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/item/inotatexi.inotatexi
+Sitemap: https://inotatexi.github.io/src/inotatexi.inotatexi
